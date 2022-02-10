@@ -1,0 +1,11 @@
+.alignLeft {
+  align-self: flex-start;
+}
+
+.alignCenter {
+  align-self: center;
+}
+
+.alignRight {
+  align-self: flex-end;
+}

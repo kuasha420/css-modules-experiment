@@ -1,0 +1,50 @@
+.btn {
+  color: #fff;
+  margin: 1px;
+  border: none;
+}
+
+.btn:hover {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.btn[role="link"] {
+  cursor: pointer;
+}
+
+.btn[role="link"]:hover {
+  text-decoration: underline;
+}
+
+.primary {
+  background-color: #00bcd4;
+}
+
+.warning {
+  background-color: #ff9800;
+}
+
+.info {
+  background-color: #2196f3;
+}
+
+.success {
+  background-color: #4caf50;
+}
+
+.danager {
+  background-color: #f44336;
+}
+
+.sm {
+  font-size: 0.8rem;
+}
+
+.md {
+  font-size: 1rem;
+}
+
+.lg {
+  font-size: 1.2rem;
+}
